@@ -19,6 +19,7 @@ C:\ProgramData\Debloat\Debloat.log
 .NOTES
   Version:        4.2.3
   Author:         Andrew Taylor
+  Edited:         Dennis Kämpf
   Twitter:        @AndrewTaylor_2
   WWW:            andrewstaylor.com
   Creation Date:  08/03/2022
@@ -313,7 +314,7 @@ $Bloatware = @(
     "Microsoft.Microsoft3DViewer"
     "Microsoft.MicrosoftOfficeHub"
     "Microsoft.MicrosoftSolitaireCollection"
-    "Microsoft.NetworkSpeedTest"
+    #"Microsoft.NetworkSpeedTest"
     "Microsoft.MixedReality.Portal"
     "Microsoft.News"
     "Microsoft.Office.Lens"
@@ -322,16 +323,16 @@ $Bloatware = @(
     "Microsoft.OneConnect"
     "Microsoft.People"
     "Microsoft.Print3D"
-    "Microsoft.RemoteDesktop"
+    #"Microsoft.RemoteDesktop"
     "Microsoft.SkypeApp"
     "Microsoft.StorePurchaseApp"
-    "Microsoft.Office.Todo.List"
-    "Microsoft.Whiteboard"
-    "Microsoft.WindowsAlarms"
+    #"Microsoft.Office.Todo.List"
+    #"Microsoft.Whiteboard"
+    #"Microsoft.WindowsAlarms"
     #"Microsoft.WindowsCamera"
     "microsoft.windowscommunicationsapps"
     "Microsoft.WindowsFeedbackHub"
-    "Microsoft.WindowsMaps"
+    #"Microsoft.WindowsMaps"
     "Microsoft.WindowsSoundRecorder"
     "Microsoft.Xbox.TCUI"
     "Microsoft.XboxApp"
@@ -344,7 +345,7 @@ $Bloatware = @(
     "Microsoft.YourPhone"
     "Microsoft.XboxGamingOverlay_5.721.10202.0_neutral_~_8wekyb3d8bbwe"
     "Microsoft.GamingApp"
-    "Microsoft.Todos"
+    #"Microsoft.Todos"
     "Microsoft.PowerAutomateDesktop"
     "SpotifyAB.SpotifyMusic"
     "Disney.37853FC22B2CE"
@@ -363,9 +364,9 @@ $Bloatware = @(
     "*Minecraft*"
     "*Royal Revolt*"
     "*Sway*"
-    "*Speed Test*"
+    #"*Speed Test*"
     "*Dolby*"
-    "*Office*"
+    #"*Office*"
     "*Disney*"
     "clipchamp.clipchamp"
     "*gaming*"
