@@ -366,7 +366,7 @@ $Bloatware = @(
     "*Sway*"
     #"*Speed Test*"
     "*Dolby*"
-    #"*Office*"
+    "*Office*"
     "*Disney*"
     "clipchamp.clipchamp"
     "*gaming*"
