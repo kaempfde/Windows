@@ -21,7 +21,7 @@ C:\ProgramData\Debloat\Debloat.log
   Author:         Andrew Taylor
   Twitter:        @AndrewTaylor_2
   WWW:            andrewstaylor.com
-  Creation Date:  08/03/2022
+  Creation Date:  31.01.2025 - edited by Dennis Kämpf
   Purpose/Change: Initial script development
   Change: 12/08/2022 - Added additional HP applications
   Change 23/09/2022 - Added Clipchamp (new in W11 22H2)
@@ -309,7 +309,7 @@ $Bloatware = @(
 "*CandyCrush*"
 "*DevHome*"
 "*Disney*"
-"*Dolby*"
+#"*Dolby*"
 "*Duolingo-LearnLanguagesforFree*"
 "*EclipseManager*"
 "*Facebook*"
@@ -367,12 +367,12 @@ $Bloatware = @(
 "Microsoft.Whiteboard"
 "Microsoft.Windows.DevHome"
 "Microsoft.WindowsAlarms"
-"Microsoft.WindowsCamera"
+#"Microsoft.WindowsCamera"
 "Microsoft.windowscommunicationsapps"
 "Microsoft.WindowsFeedbackHub"
-"Microsoft.WindowsMaps"
+#"Microsoft.WindowsMaps"
 "Microsoft.WindowsSoundRecorder"
-"Microsoft.WindowsStore"
+#"Microsoft.WindowsStore"
 "Microsoft.Xbox.TCUI"
 "Microsoft.XboxApp"
 "Microsoft.XboxGameOverlay"
@@ -384,7 +384,7 @@ $Bloatware = @(
 "Microsoft.ZuneMusic"
 "Microsoft.ZuneVideo"
 "MicrosoftCorporationII.MicrosoftFamily"
-"MicrosoftCorporationII.QuickAssist"
+#"MicrosoftCorporationII.QuickAssist"
 "MicrosoftWindows.Client.WebExperience"
 "MicrosoftWindows.CrossDevice"
 "MirametrixInc.GlancebyMirametrix"
